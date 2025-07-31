@@ -83,7 +83,7 @@ export function Hero() {
             </Button>
           </Link>
 
-          <Link href="mailto:sales@apolldon.tech">
+          <Link href="mailto:sales@apollodon.tech">
             <Button
               size="lg"
               variant="outline"
