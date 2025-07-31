@@ -115,7 +115,7 @@ export default function Testimonials() {
                 &ldquo;
               </div>
               <p className="text-white sm:text-lg md:text-xl relative z-10 italic">
-                {currentTestimonial.quote.replace(/"/g, '\\"')}
+                {currentTestimonial.quote}
               </p>
               <div className="absolute -bottom-6 sm:-bottom-10 -right-2 text-5xl sm:text-7xl text-blue-500/20 font-serif">
                 &rdquo;
